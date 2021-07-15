@@ -6,7 +6,7 @@ To run this project in Windows, perform these steps in the following order:
    In the post-install screen, select the option to disable the path length limit.
 
 2. Install Visual Studio:
-   Download the Visual Studio 2019 Community Edition istaller from: https://visualstudio.microsoft.com/
+   Download the Visual Studio 2019 Community Edition installer from: https://visualstudio.microsoft.com/
    Install the "Desktop development with C++" workload.
    This is required because in Windows the Nvidia Cuda Compiler (nvcc) only supports Microsoft Visual C++ as its host compiler.
    No other workloads or components are required.
