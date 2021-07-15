@@ -22,11 +22,17 @@ To run this project in Windows, perform these steps in the following order:
 
 5. Open a command prompt window (this can be done by pressing Windows Key + R and entering "cmd")
    Ensure pip is fully upgraded by running: "python -m pip install --upgrade pip"
+   
    Several additional packages for Python are required:
+   
    Install pytools by running: "pip install pytools"
+   
    Install numpy by running: "pip install numpy"
+   
    Install numba by running: "pip install numba"
+   
    Install pycuda by running: "pip install pycuda"
+   
    Install pypng by running: "pip install pypng"
 
 6. In the command window, use "cd" (change directory) to change to the directory containing the project files.
